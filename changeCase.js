@@ -91,5 +91,3 @@ function changeCase(strToParse, register, needSwitch = false) {
   }
   return arrayFromString.join("");
 }
-
-console.log(changeCase("dfr234  rr 3rg34f2 v2", true));
